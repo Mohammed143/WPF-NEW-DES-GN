@@ -1,0 +1,542 @@
+﻿<Window x:Class="Designky.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Designky"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="4000" Background="Brown">
+    <Grid RenderTransformOrigin="0.541,0.68" Margin="18,-4,-1670,-348">
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="615*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="49*"/>
+
+
+        </Grid.ColumnDefinitions>
+        <Line Stroke="red" StrokeThickness="15" X1="100" Y1="100" X2=" 1020" Y2=" 100" Margin="-100,431,8,-431" Grid.ColumnSpan="3"/>
+        <Line Stroke="Green" StrokeThickness="15" X1="100" Y1="100" X2=" 1020" Y2=" 100" Margin="-102,431,10,-431" Grid.ColumnSpan="3"/>
+        <Line Stroke="Black" StrokeThickness="15" X1="100" Y1="100" X2=" 1020" Y2=" 100" Margin="-100,432,8,-432" Grid.ColumnSpan="3"/>
+        <Line Stroke="Red" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="633,109,826,-325"/>
+
+        <Line Stroke="Green" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="633,107,826,-323"/>
+
+        <Line Stroke="Red" StrokeThickness="20" X1="-30" Y1="415" X2=" 210" Y2=" -00" Margin="398,111,-286,-402" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Green" StrokeThickness="20" X1="-30" Y1="415" X2=" 210" Y2=" -00" Margin="398,111,-286,-402" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="red" StrokeThickness="20" X1="-30" Y1="415" X2=" 210" Y2=" -00" Margin="397,115,-285,-406" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="green" StrokeThickness="20" X1="-30" Y1="415" X2=" 210" Y2=" -00" Margin="400,108,-288,-399" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Black" StrokeThickness="20" X1="-30" Y1="415" X2=" 210" Y2=" -00" Margin="396,113,-284,-404" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Black" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="633,109,826,-325"/>
+
+        <Line Stroke="Green" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="1147,109,312,-325"/>
+        <Line Stroke="Red" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="1147,109,312,-325"/>
+        <Line Stroke="Red" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="871,517,588,-733"/>
+
+
+
+        <Line Stroke="Green" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="871,517,588,-733"/>
+
+
+
+        <Line Stroke="Green" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="243,517,1216,-733"/>
+        <Line Stroke="Red" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="243,517,1216,-733"/>
+        <Line Stroke="Green" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="323,515,1136,-731"/>
+        <Line Stroke="Red" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="323,515,1136,-731"/>
+        <Line Stroke="Green" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="11,121,1448,-337"/>
+        <Line Stroke="Red" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="11,121,1448,-337"/>
+        <Line Stroke="Red" StrokeThickness="20" X1="-30" Y1="1" X2=" 150" Y2=" 435" Margin="84,96,-84,-96" Grid.ColumnSpan="3" UseLayoutRounding="False"/>
+
+
+
+
+
+        <Line Stroke="Green" StrokeThickness="20" X1="-30" Y1="1" X2=" 150" Y2=" 435" Margin="84,96,-84,-96" Grid.ColumnSpan="3" UseLayoutRounding="False"/>
+
+
+
+
+
+        <Line Stroke="Red" StrokeThickness="20" X1="-55" Y1="340" X2=" 180" Y2=" -80" Margin="963,177,-286,-435" Grid.ColumnSpan="3"/>
+        <Line Stroke="Green" StrokeThickness="20" X1="-55" Y1="340" X2=" 180" Y2=" -80" Margin="963,177,-286,-435" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Green" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1458,632,-1550,-632" Grid.ColumnSpan="3"/>
+        <Line Stroke="Red" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1458,632,-1550,-632" Grid.ColumnSpan="3"/>
+        <Line Stroke="Red" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1456,548,-1548,-548" Grid.ColumnSpan="3"/>
+        <Line Stroke="Green" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1456,548,-1548,-548" Grid.ColumnSpan="3"/>
+        <Line Stroke="Green" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1426,449,-1518,-449" Grid.ColumnSpan="3"/>
+        <Line Stroke="Red" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1426,449,-1518,-449" Grid.ColumnSpan="3"/>
+        <Line Stroke="Red" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1381,356,-1473,-356" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Green" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1381,356,-1473,-356" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Red" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1339,257,-1431,-257" Grid.ColumnSpan="3"/>
+
+
+
+
+        <Line Stroke="Green" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1339,257,-1431,-257" Grid.ColumnSpan="3"/>
+
+
+
+
+        <Line Stroke="Black" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1339,257,-1431,-257" Grid.ColumnSpan="3"/>
+
+
+
+
+        <Line Stroke="Green" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1309,170,-1401,-170" Grid.ColumnSpan="3"/>
+
+
+
+        <Line Stroke="Red" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1309,170,-1401,-170" Grid.ColumnSpan="3"/>
+
+
+
+        <Line Stroke="Red" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1283,89,-1375,-89" Grid.ColumnSpan="3"/>
+
+
+
+        <Line Stroke="Green" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1283,89,-1375,-89" Grid.ColumnSpan="3"/>
+
+
+
+        <Line Stroke="Red" StrokeThickness="20" X1="100" Y1="100" X2=" 3000" Y2=" 100" Margin="-103,0,11,0" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Green" StrokeThickness="20" X1="100" Y1="100" X2=" 3000" Y2=" 100" Margin="-100,0,8,0" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Black" StrokeThickness="20" X1="100" Y1="100" X2=" 3000" Y2=" 100" Margin="-105,0,13,0" Grid.ColumnSpan="3"/>
+
+
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="921,208,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+
+
+
+
+
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="921,192,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+
+
+
+
+
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="921,230,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="860,306,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+
+
+
+
+
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="921,334,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="921,314,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="921,294,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="923,274,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="923,250,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+
+
+        <Line Stroke="Black" StrokeThickness="20" X1="-30" Y1="1" X2=" 150" Y2=" 435" Margin="84,96,-84,-96" Grid.ColumnSpan="3" UseLayoutRounding="False"/>
+
+
+
+
+
+        <Button Content="Button" HorizontalAlignment="Left" Margin="110,513,0,0" Background ="DeepPink" VerticalAlignment="Top" Width="45" Height="30"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="51,513,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="-1,514,0,0" VerticalAlignment="Top" Width="45" Background="black" Height="30"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="62,86,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="5,85,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="291,520,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="313,84,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="674,82,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="594,514,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="727,82,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="662,514,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="734,518,0,0" VerticalAlignment="Top" Width="45" Background="black" Height="30"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="785,82,0,0" VerticalAlignment="Top" Width="45" Background="black" Height="30"/>
+        <TextBlock HorizontalAlignment="Left" Margin="623,298,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" Width="161" Background="Yellow"/>
+        <TextBlock HorizontalAlignment="Left" Margin="840,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="165" Width="110" Background="Blue" UseLayoutRounding="True">
+            <TextBlock.TextDecorations>
+                <TextDecoration Location="OverLine"/>
+            </TextBlock.TextDecorations></TextBlock>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="499,323,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="526,322,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="551,323,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="555,334,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="533,334,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="579,334,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="585,335,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="807,260,0,0" VerticalAlignment="Top" Width="40" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="772,258,0,0" VerticalAlignment="Top" Width="80" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="921,230,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="921,250,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Line Stroke="black" StrokeThickness="20" X1="-55" Y1="340" X2=" 180" Y2=" -80" Margin="963,177,-286,-435" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Black" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="871,517,588,-733"/>
+
+
+
+        <Line Stroke="blue" StrokeThickness="15" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="256,518,-144,-809" Grid.ColumnSpan="3"/>
+        <Line Stroke="Black" StrokeThickness="15" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="250,518,-138,-809" Grid.ColumnSpan="3"/>
+        <Rectangle HorizontalAlignment="Left" Height="50" Margin="1234,68,0,0" Stroke="blue" StrokeThickness="25" VerticalAlignment="Top" Width="70"/>
+        <Line Stroke="Black" StrokeThickness="15" X1="-30" Y1="1" X2=" 190" Y2=" 645" Margin="1389,96,-1389,-96" Grid.ColumnSpan="3"/>
+        <Line Stroke="Black" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1283,89,-1375,-89" Grid.ColumnSpan="3"/>
+
+
+
+        <Line Stroke="Black" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="1147,109,312,-325"/>
+
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1304,91,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1189,91,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Line Stroke="Black" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1309,170,-1401,-170" Grid.ColumnSpan="3"/>
+
+
+
+        <Line Stroke="Black" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1381,356,-1473,-356" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Black" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1420,449,-1512,-449" Grid.ColumnSpan="3"/>
+
+        <Line Stroke="Black" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1456,548,-1548,-548" Grid.ColumnSpan="3"/>
+
+
+        <Line Stroke="Black" StrokeThickness="15" X1="100" Y1="100" X2=" 1650" Y2=" 100" Margin="1458,632,-1550,-632" Grid.ColumnSpan="3"/>
+
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1516,85,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1626,85,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1714,82,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1522,175,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1628,175,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1717,172,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1504,331,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1631,337,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1717,341,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1799,442,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1718,438,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1530,433,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1719,628,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1797,535,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow" Focusable="False" Click="Button_Click_1"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1597,628,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1718,535,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1609,709,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1492,247,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1630,250,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow" Click="Button_Click_2"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1717,253,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1454,169,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1426,88,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="877,144,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="904,145,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="933,144,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="850,154,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="826,154,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="936,152,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="910,152,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="851,378,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="878,379,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="907,378,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="824,388,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="800,388,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="910,386,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="884,386,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1799,632,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1798,336,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1798,254,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1634,436,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1719,710,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1799,714,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1796,82,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="TC" HorizontalAlignment="Left" Margin="1798,170,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="Yellow"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1569,526,0,0" VerticalAlignment="Top" Width="45" Height="30" Background="DeepPink"/>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="31,246,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="58,247,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="87,246,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="4,256,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="-26,256,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="90,254,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="64,254,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <Line Stroke="Black" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="323,515,1136,-731"/>
+
+
+        <Line Stroke="Black" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="243,517,1216,-733"/>
+
+        <Line Stroke="Black" StrokeThickness="25" X1="-30" Y1="1" X2=" 45" Y2=" 0" Margin="11,121,1448,-337"/>
+
+
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="921,272,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="921,294,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="921,314,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="921,334,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="920,230,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="877,244,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#FF0000" HorizontalAlignment="Left" Height="20" Margin="877,266,0,0" Stroke="red" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="1395,43,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1422,42,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1447,43,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1451,54,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1429,54,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1475,54,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1481,55,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="1405,129,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1432,128,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1457,129,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1461,140,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1439,140,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1485,140,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1491,141,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="1419,203,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1446,202,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1471,203,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1475,214,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1453,214,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1499,214,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1505,215,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="1463,291,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1490,290,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1515,291,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1519,302,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1497,302,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1543,302,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1549,303,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="1489,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1516,394,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1541,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1545,406,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1523,406,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1569,406,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1575,407,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="1533,477,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1560,476,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1585,477,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1589,488,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1567,488,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1613,488,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1619,489,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="1551,575,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1578,574,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1603,575,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1607,586,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1585,586,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1631,586,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1637,587,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Ellipse Fill="#000000"  HorizontalAlignment="Left" Height="30" Margin="1571,673,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1598,672,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Ellipse Fill="#000000" HorizontalAlignment="Left" Height="30" Margin="1623,673,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1627,684,0,0" VerticalAlignment="Top" Width="20" Background="Green"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1605,684,0,0" VerticalAlignment="Top" Width="20" Background="Red"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1651,684,0,0" VerticalAlignment="Top" Width="30" Background="Black"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="1657,685,0,0" VerticalAlignment="Top" Width="40" Background="Black" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.703"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="921,210,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Ellipse Fill="#008000" HorizontalAlignment="Left" Height="20" Margin="921,190,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="1438,413,0,0" Stroke="Black" StrokeThickness="25" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="67.728"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="1400,307,0,0" Stroke="Black" StrokeThickness="25" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="67.728"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="1470,505,0,0" Stroke="Black" StrokeThickness="25" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="67.728"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="1500,605,0,0" Stroke="Black" StrokeThickness="25" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="67.728"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="1524,685,0,0" Stroke="Black" StrokeThickness="25" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="67.728"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="1372,221,0,0" Stroke="Black" StrokeThickness="25" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="67.728"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="1340,137,0,0" Stroke="Black" StrokeThickness="25" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="67.728"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Ellipse Fill="#00FFFF" HorizontalAlignment="Left" Height="20" Margin="879,312,0,0" Stroke="Green" VerticalAlignment="Top" Width="20"/>
+
+
+
+
+
+    </Grid>
+
+
+</Window>
